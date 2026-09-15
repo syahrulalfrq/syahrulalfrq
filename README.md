@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syahrul Ihsan Al Faruq</h1>
-<h3 align="center">A passionate Network developer from Indonesian/h3>
+<h3 align="center">A passionate Network developer from Indonesian </h3>
 
 - 🌱 I’m currently learning **MikroTik RouterOS, Networking, & Cloud Computing**
 
